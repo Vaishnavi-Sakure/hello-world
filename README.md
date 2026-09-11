@@ -1,2 +1,2 @@
-# helloWorld
-Hello World tutorial
+# hello-world
+Hello World tutorial for BUDT748
